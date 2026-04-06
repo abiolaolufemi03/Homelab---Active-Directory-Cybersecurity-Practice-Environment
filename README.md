@@ -21,7 +21,7 @@ To build practical experience in Windows Server administration, domain managemen
 - **Attack Machine**: Kali Linux (Attack LAN)
 
 ### Network Layout
-- **WAN**: 192.168.1.249 (pfSense)
+- **WAN**: 192.168.1.*** (pfSense)
 - **Homelab LAN**: 10.0.1.0/24
 - **Attack LAN**: 10.0.3.0/24
 
